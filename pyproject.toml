@@ -1,5 +1,8 @@
 [tool.poetry]
 name = "random-quote-generator-vis"
+packages = [
+    { include = "random_quote_generator_vis" },
+]
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
