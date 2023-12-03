@@ -1,5 +1,5 @@
-from random_quote_generator import get_quote
-from random_quote_generator.quotes import quotes
+from random_quote_generator_vis import get_quote
+from random_quote_generator_vis.quotes import quotes
 
 # from .random_quote_generator_test_data import quotes_test_data
 
